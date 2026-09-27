@@ -1,1 +1,2 @@
-# git_learning
+#learning project
+this repo is only used to learn.
